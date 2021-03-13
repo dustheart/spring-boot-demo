@@ -14,3 +14,5 @@ http://localhost:8080/actuator/loggers
 官方文档：
 https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-endpoints
 
+prometheus:
+http://localhost:8080/actuator/prometheus
